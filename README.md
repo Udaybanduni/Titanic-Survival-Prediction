@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction
+# Titanic-Survival-Prediction_202401100300267
 Titanic Survival Prediction
 This project aims to develop a classification model that predicts the survival of passengers aboard the Titanic. By analyzing historical passenger data, the model helps understand key factors affecting survival rates and provides a foundation for applying machine learning to real-world classification problems.
 
